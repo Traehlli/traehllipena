@@ -42,4 +42,5 @@ I am building a public analytics portfolio that demonstrates my ability to defin
 
 ## Connect with me
 
-- LinkedIn: [https://www.linkedin.com/in/traepena/]
+- LinkedIn: https://www.linkedin.com/in/traepena/
+- Tableau: https://public.tableau.com/app/profile/traehlli.pena/vizzes
