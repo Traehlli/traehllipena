@@ -42,6 +42,4 @@ I am building a public analytics portfolio that demonstrates my ability to defin
 
 ## Connect with me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Tableau Public: [Add your Tableau Public URL]
-- Portfolio: [Add later if you create one]
+- LinkedIn: [https://www.linkedin.com/in/traepena/]
